@@ -27,3 +27,13 @@ git commit -m "my first commit"
 git push >> u
 
 git clone <respository> url >> for cloning a repository from github
+
+creating new branch in github
+
+git branch <branchname>
+
+git switch <branchname>
+
+git switch newbranch
+
+git pull
